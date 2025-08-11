@@ -27,7 +27,7 @@ pip install pandas numpy scikit-learn nltk
 ## How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/vikastomar0010/sms-spam-detection.git
+git clone https://github.com/Hitesh0825/sms_spam_detector.git
 ```
 2. Navigate to the project directory:
 ```bash
